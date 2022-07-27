@@ -12,6 +12,9 @@
     padding:15px 20px;
     background: #91d8f7;
 }
+.why{
+    overflow-y: hidden;
+}  
 .navbarBrand{
     width: 30%;
     display: flex;
